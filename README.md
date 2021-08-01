@@ -7,3 +7,4 @@
 • It will manage any combination of the following flags: ’-0.*’ and minimum field width with all conversions\
 • It will be compared with the real printf\
 • You must use the command ar to create your librairy, using the command libtool is forbidden.\
+• Points 100/100
